@@ -1,0 +1,11 @@
+# ignore all checkpoint files
+checkpoints/*
+
+# ignore all log files
+logs/*
+
+# ignore all __pycache__ folder
+**/__pycache__/
+
+# ignore dataset folder
+dataset/*
