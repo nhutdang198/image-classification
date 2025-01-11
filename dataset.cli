@@ -1,0 +1,2 @@
+#!/bin/bash
+kaggle datasets download phucthaiv02/butterfly-image-classification
